@@ -11,7 +11,7 @@
 
         - *`export["lf-notifications"]:SendNotification(type, icon, message, duration)`*
 
-            #### or
+            ##### or
 
         - *`TriggerEvent("lf-notifications:client:SendNotification", type, icon, message, duration)`*
 
